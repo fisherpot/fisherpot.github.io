@@ -14,11 +14,11 @@
 
 
 
-```c
+```C
 #include <stdio.h>
 int main()
 {
-  printf("阿--一代一代一代"\n);
+  printf("阿--一代一代一代\n");
   return 0;
 }
 ```
