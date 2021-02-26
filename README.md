@@ -11,3 +11,14 @@
 [連結1](https://www.youtube.com/watch?v=uoqJy_AEt-E)
 
 [連結2](https://www.youtube.com/watch?v=072tU1tamd0)
+
+
+
+```c
+#include <stdio.h>
+int main()
+{
+  printf("阿--一代一代一代"\n);
+  return 0;
+}
+```
